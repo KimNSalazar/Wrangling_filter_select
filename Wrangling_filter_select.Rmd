@@ -1,8 +1,8 @@
 ---
 title: "Data Wrangling - Part I"
 subtitle: "StatPREP R Workshops"
-author: "Your Name"
-output: html_document
+author: "Kimberly Salazar"
+output:
 ---
 
 ## Setting things up
